@@ -14,8 +14,8 @@ Performance Metrics:
 
 The models were evaluated using:
 
-Accuracy
-Precision
+Accuracy,
+Precision,
 Recall
 
 Results:
