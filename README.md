@@ -1,5 +1,5 @@
 # Machine-Learning-Model-Comparison-for-Diabetes-and-Weather-Datasets
-This repository contains a comparison of four machine learning models—Linear Regression, Random Forest, Decision Trees, and KNN—evaluated on Diabetes and Weather datasets. The focus of this project is to identify the models that provide the best performance across key metrics: accuracy, precision, and recall.
+This repository was from my Machine Learning coursework, it contains a comparison of four machine learning models—Linear Regression, Random Forest, Decision Trees, and KNN—evaluated on Diabetes and Weather datasets. The focus of this project is to identify the models that provide the best performance across key metrics: accuracy, precision, and recall.
 
 Models Evaluated:
 
