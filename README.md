@@ -2,6 +2,7 @@
 This repository contains a comparison of four machine learning models—Linear Regression, Random Forest, Decision Trees, and KNN—evaluated on Diabetes and Weather datasets. The focus of this project is to identify the models that provide the best performance across key metrics: accuracy, precision, and recall.
 
 Models Evaluated:
+
 Linear Regression: Applied for predicting continuous outcomes, with performance assessed using metrics like accuracy and precision.
 Random Forest: An ensemble method evaluated for capturing non-linear relationships and handling imbalanced datasets.
 Decision Trees: Chosen for their interpretability and ability to model both linear and non-linear patterns in the data.
@@ -10,6 +11,7 @@ Key Techniques:
 Cross-validation: Used to ensure robust model evaluation across multiple splits of the dataset.
 Hyperparameter Tuning: Applied to optimize model parameters and improve performance.
 Performance Metrics:
+
 The models were evaluated using:
 
 Accuracy
